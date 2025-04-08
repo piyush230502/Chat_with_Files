@@ -1,0 +1,16 @@
+#pip install streamlit langchain langchain_groq pandas pypdf python-docx beautifulsoup4 ebooklib markdown2 unstructured
+
+
+streamlit
+langchain
+pandas
+pypdf
+python-docx
+beautifulsoup4
+ebooklib
+markdown2
+unstructured
+langchain_groq
+
+#pydantic==2.10.3
+# pip install -r requirements.txt
