@@ -1,7 +1,3 @@
-Here's a detailed **project report** (~1000 words) and **step-by-step instructions** for running your app based on the `main.py` and `requirements.txt` files you provided:
-
----
-
 ## 🔍 Project Title: **AI-Powered Document Chat Using LangChain & Groq**
 
 ---
